@@ -1,2 +1,2 @@
-# Portfolio2
-My portfolio
+# Portfolio
+Coder academy first assignment 
